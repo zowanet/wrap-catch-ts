@@ -30,5 +30,5 @@
 		"build": "tsc"
 	},
 	"types": "lib/main.d.mts",
-	"version": "0.1.0"
+	"version": "1.0.0"
 }
